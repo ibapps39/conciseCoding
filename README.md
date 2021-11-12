@@ -3,13 +3,13 @@ An *open source* and *free* project to teach others how to code and navigate sof
 
 
 ## What you'll be doing, in order, and why:
-- [🐍 Python]() - *Approachable and minimal syntax for building a solid foundation to learn what's to come.*
+- [🐍 Python](https://github.com/ibapps39/conciseCoding/tree/myFirstCProgram/conciseCodingPython) - *Approachable and minimal syntax for building a solid foundation to learn what's to come.*
   - [Sandbox](http://pythonsandbox.com) - http://pythonsandbox.com
   - [Official](https://www.python.org) - https://www.python.org
-- [🌎 Web]() - *Sometimes, what we think requires programing is actually an entirely different art!*
+- [🌎 Web](https://github.com/ibapps39/conciseCoding/tree/myFirstCProgram/conciseCodingWeb) - *Sometimes, what we think requires programing is actually an entirely different art!*
   - [Sandbox](https://github.com/EbookFoundation/free-programming-books) - http://pythonsandbox.com
   - [Additional Documentation - W3 Schools](https://www.w3schools.com) - https://www.w3schools.com
-- [🛠 C]( ) - *Before deciding what path is for you, understand what's going beneath the hood.*
+- [🛠 C](https://github.com/ibapps39/conciseCoding/tree/myFirstCProgram/conciseCodingC) - *Before deciding what path is for you, understand what's going beneath the hood.*
   - [Sandbox](https://cplayground.com) - https://cplayground.com
   - [Additional Documentation - GNU](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
   - [Additional Documentation - Learn-C](https://www.learn-c.org) - https://www.learn-c.org
