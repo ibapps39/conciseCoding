@@ -44,5 +44,25 @@ else: print("True")
 # if and else are special, but think of the : as a variables = operator. : is "Do what's after this"
 # In python, indentations, whitespace, matters! So the program knows 'if/else' is done after the end of the line
 
+# Computers can save many different kinds of data, whether pictures or videos, 
+# We call storage persistency, and the makeup of data can take various forms
+# Take for example a photo, may be made up of pixels (the little red, green, and blue square in a monitor).
+# In order to display a certain color, we pass a set of color ranges (some spectrum of red, green, and blue) using numbers
+rgb = [100, 200, 150] 
+# One kind of 'set' is an array, indicated by two brackets []
+emptyArray = []
+abcArray = ['a', 'b', 'c']
+# Arrays are typically fixed in length, meaning the length doesnt change/isnt dynamic
+# You can communicate with arrays by refering to an array using elements or indices
+# Elements are the what we see in the array. 
+# Index is 'where' the element is. Most languages assume the array starts left to right, and that
+# the first element, like 'a', is an int = 0.
+# SO: array[index] = element
+# To print 'a' in abcArray we pass the array name, abcArray and the index of 'a' in brackets
+print(abcArray[0])
+# 0 since 'a' is the first element, which is almost always 0 (some languages start at 1, but Python doesnt)
 
+# But what if we don't know how big an array will be? We can use a changing, or Dynamic, list?
+# Well, in Python arrays are known as Lists, and use the array notation, or syntax.
+#  
 
